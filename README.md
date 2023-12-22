@@ -1,3 +1,3 @@
 Airlines Data Analysis using SQL and Python
 
-This analysis used aircraft company's database to find ways to increase their occupancy rate, which can help boost the average profit earned per seat.
+This analysis used airline's database to identify opportunities to increase the occupancy rate on low-performing flights, which can ultimately lead to increased profitability for the airline.
