@@ -1,8 +1,12 @@
-Title:Airlines Data Analysis 
+<b>Title</b>
 
-Tools:Python(Pandas,Numpy,Matplotlib),SQLite
+Airlines Data Analysis 
 
-Analysis Details:
+<b>Tools</b>
+
+Python(Pandas,Numpy,Matplotlib),SQLite
+
+<b>Analysis Details</b>
 
 • Developed cloud backend utilizing Azure Blob storage and used Pandas and Numpy packages for airlines data manipulation & ETL.
 
@@ -10,7 +14,7 @@ Analysis Details:
 
 • Visualized analysis results using Matplotlib and Seaborn in Python.
 
-Outcome:
+<b>Outcome</b>
 
 This analysis used airline's database to identify opportunities to increase the occupancy rate on low-performing flights, which can ultimately lead to increased profitability for the airline.
 
